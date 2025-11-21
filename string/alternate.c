@@ -1,3 +1,7 @@
+/**
+ * This C program takes a string as input, toggles the case of each word in the string, and outputs the
+ * modified string.
+ */
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
